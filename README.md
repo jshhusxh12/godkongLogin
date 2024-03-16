@@ -1,4 +1,1 @@
-<h4> <span> · </span> <a href="https://github.com/jshhusxh12/godkongLogin/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/jshhusxh12/godkongLogin/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/jshhusxh12/godkongLogin/issues"> Request Feature </a> </h4>
-
-
-## :star2: About the Project
+# HTML5, CSS 로 만든거라 JS는 없습니다. JS는 알아서 ㄱㄱ
